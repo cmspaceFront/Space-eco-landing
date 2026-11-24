@@ -1,0 +1,52 @@
+{
+  "brand": "UZCOSMOS",
+  "title": "Space Eco Monitoring",
+  "subtitle": "Kosmik ekologik monitoring",
+  "intro": "Sun'iy yo'ldosh ma'lumotlari asosida O'zbekiston hududlarida chiqindixonalar, suv muhofaza zonalari, qo'riqlanadigan hududlar, o'rmon qoplami va yong'inlarni yagona platformada kuzatish.",
+  "railTitle": "Monitoring modullari",
+  "buttonText": "Batafsil",
+  "modules": [
+    {
+      "id": "landfill",
+      "kind": "landfill",
+      "title": "Chiqindixonalar",
+      "description": "Mavjud chiqindilarni saqlash joylarida belgilangan hududdan tashqariga chiqish holatlarini aniqlash, yangi paydo boʻlgan noqonuniy chiqindi zonalarini aniqlash.",
+      "imageUrl": "",
+      "accent": "#f5a524"
+    },
+    {
+      "id": "river",
+      "kind": "river",
+      "title": "Daryo muhofaza hududi",
+      "description": "Daryo oʻzanlari, sohil boʻyi mintaqalari va suvni muhofaza qilish zonalarida noruda materiallarini qazish hamda daryo oʻzanlarida tozalash ishlari olib borilayotgan uchastkalarda loyihadan chetga chiqish, noqonuniy qazib olish holatlarini aniqlash.",
+      "imageUrl": "",
+      "accent": "#38bdf8"
+    },
+    {
+      "id": "protected",
+      "kind": "protected",
+      "title": "Muhofaza hududlari",
+      "description": "Muhofaza etiladigan tabiiy hududlarda yer uchastkalarining oʻzboshimchalik bilan egallab olinishi, noqonuniy bino va inshootlar qurilish holatlarini aniqlash.",
+      "imageUrl": "",
+      "accent": "#a78bfa"
+    },
+    {
+      "id": "forest",
+      "kind": "forest",
+      "title": "O'rmon qoplami",
+      "description": "Oʻrmon bilan qoplangan maydonlarning chegaralarini belgilash.",
+      "imageUrl": "",
+      "accent": "#4ade80"
+    },
+    {
+      "id": "fire",
+      "kind": "fire",
+      "title": "Dala yong'inlari",
+      "description": "Boshoqli don ekinlaridan boʻshagan (oʻrimdan keyin) yer maydonlarida somon poyalari va ularning qoldiqlari yonish holatlarini aniqlash.",
+      "imageUrl": "",
+      "accent": "#f97316"
+    }
+  ],
+  "showLanguage": true,
+  "showLogout": true
+}

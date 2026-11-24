@@ -1,0 +1,24 @@
+{
+  "name": "space-eco-landing",
+  "label": "Space Eco Landing",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.14.0",
+  "author": "UZCOSMOS",
+  "description": "Landing page for Space Eco Monitoring: interactive 3D map of Uzbekistan regions and a dock of five module cards that open other pages.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "icon": "icon.svg",
+  "properties": {
+    "hasSettingPage": true,
+    "hasStyle": false
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 1600,
+    "height": 900
+  },
+  "dependency": "jimu-arcgis"
+}
